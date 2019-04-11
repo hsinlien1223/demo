@@ -1,0 +1,21 @@
+div
+{
+	margin: 30px;
+}
+body
+{
+	background-color: #C9FFC9;
+	color:gray;
+	font-family:"微軟正黑體"; 
+	font-size: 22px;
+	font-weight: bolder;
+}
+.menu
+{
+	border:2px solid;
+    padding: 0.5em 1em;
+    border-radius: 25px;
+    text-decoration: none;
+    color:#9C9C9C;
+    margin:50px;
+}
