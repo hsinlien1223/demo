@@ -1,0 +1,182 @@
+.parallax
+{
+	background: url("../images/home.jpg")center center no-repeat;
+	min-height: 800px;
+	background-attachment: fixed;
+	background-size: cover;
+}
+h2
+{
+	color:#fff; 
+	font-size:30px; 
+	text-align:center; 
+	background:rgba(0,0,0,0.5); 
+	padding:50px;
+}
+.devmenu
+{
+	position: fixed;
+	left: 0;
+  	top: 51%;
+  	width: 11em;
+ 	border:1px #9C9C9C solid;
+ 	border-top-right-radius:5em;
+ 	border-bottom-right-radius:5em;
+ 	font-size: 18px;
+ }
+.devmenuli
+{
+    margin-left: 2px;
+}
+.intable 
+{		
+  	border-collapse: collapse;
+ 	border: 1px solid #9C9C9C;
+	border-left: double;
+	border-right: double;
+	border-top: double;
+	border-bottom: double;
+	width: 85%;
+	height: 10px;
+	margin:0px auto;
+}
+.map
+{
+	 width:25px;
+	 height:25px;
+}
+td
+{
+	padding:15px;
+}
+.pcen
+{
+	width: 170px;
+	height: 20px;
+	margin:0px auto;
+}
+.imgcyim
+{
+	width:20vw;
+	height: 40vh;
+}
+.cyim
+{
+	position :relative;
+	top:-3em; 
+	left: 4em;
+	color:black;
+	font-size:30pt;
+	font-family: fantasy;
+    font-style:italic;
+}
+.dev
+{
+	width:30vw;
+	height:35vh;
+}
+.dev:hover 
+  	{
+  		width: 600px;
+  		height: 400px;	
+	}
+.devul
+{
+	list-style-type:upper-roman;
+}
+.interduce
+{
+	width: 400px;
+  	height: auto;	
+}
+.devone
+{
+	position: relative;
+	top:-1em;
+	left:7em;
+	width:20vw; 
+	height:25vh;
+}
+.devone:hover 
+  	{
+  		width: 600px;
+  		height: 400px;	
+	}
+.devtwo
+{
+	position: relative;
+	top:-1em;
+	left:2em;
+	width:20vw; 
+	height:25vh;
+}
+.devtwo:hover 
+  	{
+  		width: 600px;
+  		height: 400px;	
+	}
+.t206
+{
+	font-size: 15px;
+	padding: 6px;
+    border-collapse: collapse;
+    border: 2px solid #FF8888;
+}
+.teacher
+{
+	position: relative;
+	top:0em;
+	left:3em;
+	width:25vw; 
+	height:50vh;
+}
+.man
+{
+	opacity:0.9;
+	width: 60vw;
+	height: 75vh;
+	padding: 10PX 10PX;
+	position :relative;
+	top:4em;
+}
+#mword
+{
+	color:black;
+	font-size:28pt;
+    font-style:italic;
+    position :relative;
+    top:-9.2em;
+}
+.mword1
+{
+	position :relative;
+	top:-8em; 
+	left: 23.4em;
+	color:black;
+	font-size:20pt;
+}
+.pro
+{
+	opacity:0.9;
+	width: 60vw;
+	height: 75vh;
+	padding: 10PX 10PX;
+	position :relative;
+	top:-1em; 
+	left:6em;
+}
+#pword
+{
+	color:black;
+	font-size:28pt;
+    font-style:italic;
+    position :relative;
+    top:-12.4em; 
+    left:18.2em;
+}
+.pword1
+{
+	font-size: 20px;
+    border-collapse: collapse;
+    border: 2px solid #FF8888;
+}
